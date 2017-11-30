@@ -108,5 +108,6 @@ With the image processing pipeline set up line charactericts calculated, we can 
 
 ### Discussion
 
-
-
+With the techniques explored in this project, it is evident that many approaches still exist for the refinement of computer vision applications or adaptations in lane detection, object detection, or even prediction.
+Future implementation may include expanding the scope of lane finding to the entire highway. This would then enable safe employment of driving features like: lane changing or detecting/classifying objects into different hazard levels.
+These expanded computer vision techniques can also be paired with location tracking to reinforce existing map ranging data.
