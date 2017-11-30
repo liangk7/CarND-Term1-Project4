@@ -28,6 +28,7 @@ The goals / steps of this project are the following:
 
 #### Sources 
 Udacity SDC Nanodegree: [CarND-Advanced-Lane-Lines-P4](https://github.com/udacity/CarND-Advanced-Lane-Lines)
+https://github.com/jeremy-shannon/CarND-Advanced-Lane-Lines
 
 ---
 
