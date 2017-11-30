@@ -20,12 +20,11 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/fig_cameraCal.png "Camera Calibration"
 [image2]: ./output_images/fig_undst0.png "Undistorted Example"
 [image3]: ./output_images/fig_unwarp0.png "Road Transformed"
-[image4]: ./output_images/fig_colormapsBin0.png "Binarized Colormap"
-[image5]: ./output_images/fig_sobelBin90.png "Binary Sobel"
+[image4]: ./output_images/fig_colormapBin0.png "Binarized Colormap"
+[image5]: ./output_images/fig_sobelBin0.png "Binary Sobel"
 [image6]: ./output_images/fig_slidingWindow0.png "Sliding Window"
 [image7]: ./output_images/fig_pipelineAll.png "Binary Pipeline"
-[image8]: ./output_images/fig_lanesfoundAll.png "Lanes Found for Test Images"
-[video9]: ./output_images/fig_.mp4 "Video"
+[image8]: ./output_images/fig_lanesFoundAll.png "Lanes Found for Test Images"
 
 #### Sources 
 Udacity SDC Nanodegree: [CarND-Advanced-Lane-Lines-P4](https://github.com/udacity/CarND-Advanced-Lane-Lines)
@@ -102,7 +101,7 @@ With the image processing pipeline set up line charactericts calculated, we can 
 
 #### 1. Final video output
 
-[Link to video](INSERT HYPERLINK)
+[Project Video](https://github.com/liangk7/CarND-Term1-Project4/tree/master/output_videos)
 
 
 ---
